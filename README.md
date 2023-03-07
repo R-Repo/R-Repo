@@ -6,6 +6,7 @@ Paid coding projects I've worked on in the past:
 - Python project detecting when motorcycles have accidents from accelerometer data
 - Deep Learning project with Berekly University to detect the growth of slums in India from Satilite images
 - Creating system to predict the upcoming artists and undervalues artwork using exhibition history and artwork auction data (2 year project!)
+- ML/Devops for a hedge fund
 - Machine learning consultants for engineering and manufacturing.
 
 Other non-coding stuff:
